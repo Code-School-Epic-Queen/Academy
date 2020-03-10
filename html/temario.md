@@ -3,7 +3,7 @@
 ## Code school - Epic queen
 - ¿Que es HTML?
 - ¿Donde encontramos HTML?
-- Estructura basica de un HTML
+- Estructura básica de un HTML
     - Etiquetas
         - Doctype
         - HTML
