@@ -21,11 +21,11 @@
 - Enlace (etiqueta a)
 - Direccionamiento de archivos
     - Atributo href
+        - mailto
+        - tel
     - Target
         - _blank
         - _self
-        - _parent
-        - _top
 - Imagenes (img)
     - Atributo src
     - Atributo alt
